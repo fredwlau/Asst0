@@ -1,0 +1,28 @@
+Input: "    AA4ZZ*(dd   "
+Output:
+AA
+ZZ
+dd
+
+Input:  "barf4thing2Alpha4()*Alpha((Alpar#AAA(90ZZZZZ"
+Output:
+AAA
+Alpar
+Alpha
+Alpha
+ZZZZZ
+barf
+thing
+
+Input: "the4quick2brown5Fox7jUmps9Over88The23white   Fence"
+
+Output:
+Fence
+Fox
+Over
+The
+brown
+jUmps
+quick
+the
+white
